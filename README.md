@@ -12,9 +12,8 @@ Instructions to run locally are in the following section.
 
 ## Miscellaneous
 
-- This assignment's folder structure follows the redux style guide, utilizing features/ducks for grouping code.
+- The folder structure follows the redux style guide, utilizing features/ducks for grouping code.
 - Interceptors are used to mimic auth endpoint for User state
-- Bootstrap was employed for the sake of time. It's not something I'm particularly fond of.
 
 ## Available Scripts
 
