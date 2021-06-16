@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Rendering the PostItem component Should render the PostItem component correctly 1`] = `
+<Card
+  body={false}
+>
+  <CardBody>
+    <CardTitle>
+      Whiskey Business
+    </CardTitle>
+    <CardBody>
+      Man bun DIY lomo thundercats craft beer actually unicorn gochujang mlkshk la croix fingerstache.
+    </CardBody>
+  </CardBody>
+</Card>
+`;
